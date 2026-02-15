@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/oilcrest/ATAK-Maps/compare/v1.0.0...v1.1.0) (2026-02-15)
+
+
+### Features
+
+* add Bing Satellite (aerial-only) map source ([#67](https://github.com/oilcrest/ATAK-Maps/issues/67)) ([433733e](https://github.com/oilcrest/ATAK-Maps/commit/433733e9fb161b32cd48ac1cfe6eb9b7c02b8386)), closes [#64](https://github.com/oilcrest/ATAK-Maps/issues/64)
+
 # Changelog
 
 ## [1.5.0](https://github.com/joshuafuller/ATAK-Maps/compare/v1.4.1...v1.5.0) (2025-10-02)
